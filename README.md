@@ -21,6 +21,6 @@ Este proyecto se abre a partir del archivo `gui.py`. La interfaz está hecha con
 Al iniciar el programa, se solicitará un inicio de sesión. Se puede crear un nuevo usuario, dando click en el botón de Sign up, o ingresar los datos de un usuario ya existente. En el archivo `users_database.txt` cada linea comienza con el username del usuario y termina con la contraseña del mismo. Si no se alteran las bases de datos que están actualmente en el proyecto, un usuario de prueba puede ser:
 
 Username: JosephH462 \
-Password: cj6m79vxj7ka \
+Password: cj6m79vxj7ka 
 
 Recomiendo usar algun usuario existente, pues ya está cargado con publicaciones propias, seguidores, seguidos, likes y comentarios, por lo que se muestra mas claramente el funcionamiento del proyecto.
